@@ -41,4 +41,4 @@ It demonstrates how a modern e-commerce platform can be structured using a clean
 
 ##  Live Preview
 
-👉 https://lavender-luxury.vercel.app
+https://lavender-luxury-fkmx.vercel.app/
