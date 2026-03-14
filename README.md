@@ -39,6 +39,6 @@ It demonstrates how a modern e-commerce platform can be structured using a clean
 
 ---
 
-##  Live Preview
+##  Live Preview ( Fronetend)
 
 https://lavender-luxury-fkmx.vercel.app/
